@@ -1,0 +1,39 @@
+.logo {
+    float: left
+}
+.menu {
+    float: right;
+	margin:10px;
+}
+
+.ie_footer  {
+    width: 1120px;
+    background: #4882AA;
+    margin: 0 auto;
+    color: #d1d1d1;
+}
+.ie_footer  h1,
+.ie_footer  h2,
+.ie_footer  h3,
+.ie_footer  h4,
+.ie_footer  h5,
+.ie_footer  h6 {
+    color: #FFF
+}
+.ie_footer  a,
+.sub.ie_footer  a {
+    color: #d1d1d1
+}
+.ie_footer  a:hover,
+.sub.ie_footer  a:hover {
+    color: #ca6666
+}
+.sub.ie_footer  {
+    width: 1120px;
+    background: #247C92;
+    margin: 0 auto 50px;
+    color: #d1d1d1;
+}
+.ie_footer  .inner {
+    padding: 50px
+}
